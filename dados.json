@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "nome":"Camiseta",
+        "preco":29.99,
+        "quantidade":10,
+        "categoria": "Vestuario" 
+    },
+
+    {
+        "id":2,
+        "nome":"Calça Jeans",
+        "preco":79.99,
+        "quantidade":5,
+        "categoria": "Vestuario"    
+    },
+
+    {
+        "id":3,
+        "nome":"Smartphone",
+        "preco":999.99,
+        "quantidade":2,
+        "categoria": "Eletrônicos" 
+    },
+
+    {
+        "id":4,
+        "nome":"Teclado",
+        "preco":49.99,
+        "quantidade":7,
+        "categoria": "Eletrônicos" 
+    }
+]
